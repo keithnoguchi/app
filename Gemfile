@@ -5,6 +5,7 @@ ruby '2.7.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.3', '>= 6.1.3.1'
+gem 'rails-controller-testing'
 gem 'irb', '1.3.0'
 gem 'bootstrap-sass'
 # Use sqlite3 as the database for Active Record
